@@ -1,35 +1,21 @@
 <!-- ==================== Header / Introduction ==================== -->
 <h1 align="center">Hi, I’m Pournami Prakash 👋</h1>
 <p align="center">
-  M.S. Data Science @ University of Rochester • Software &amp; ML Engineer
+  M.S. Data Science @ University of Rochester • Software Engineer
 </p>
 
 ---
 
-<!-- ==================== Badges ==================== -->
-<p align="center">
-  <!-- GitHub followers badge -->
-  <a href="https://github.com/Pournami-Prakash">
-    <img src="https://img.shields.io/github/followers/Pournami-Prakash?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <!-- GitHub stars badge -->
-  <a href="https://github.com/Pournami-Prakash">
-    <img src="https://img.shields.io/github/stars/Pournami-Prakash?style=social" alt="GitHub Stars">
-  </a>
-  <!-- Top languages card -->
-  <a href="https://github.com/Pournami-Prakash">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pournami-Prakash&layout=compact" alt="Top Languages">
-  </a>
-</p>
-
----
 
 <!-- ==================== About Me ==================== -->
+
 ## 📖 About Me
-- 🎓 Master of Science in Data Science, University of Rochester (expected Dec 2025)  
-- 💼 Graduate Student System Analyst @ UR Wilson Commons (Jun 2025–Present)  
-- 🔬 Passionate about predictive modeling, time-series analysis, and scalable data pipelines  
-- 🌱 Currently learning Apache Spark Structured Streaming, Delta Lake, and preparing for AWS certification  
+- 🎓 M.S. Data Science, University of Rochester (Dec ’25)  
+- 🔬 Research Assistant, UR Health Lab: building ML/DL/GenAI pipelines for carotid ultrasound (Dr. Ajay Anand’s team)  
+- 💻 Data Science Intern, UR IT (Summer ’25): crafting ETL pipelines and analytics models for the AI Report Catalog  
+- 🌱 Summer goals: AWS & Databricks certs, plus breathe life into my currently nonexistent online presence.  
+- ☕ Fueled by coffee and plot twists—always down to chat about anything you're passionate about.
+
 
 ---
 
