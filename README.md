@@ -1,11 +1,10 @@
 <!-- ==================== Header / Introduction ==================== -->
-<p align=”center”>
-
-<img width=”200" height=”200" src=”Make your README.png" alt=”my banner”>
-
+<p align="center">
+  <img width="200" height="200" src="Make%20your%20README.png" alt="my banner" />
 </p>
 
 ---
+
 
 
 <!-- ==================== About Me ==================== -->
