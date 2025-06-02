@@ -1,8 +1,8 @@
 <!-- ==================== Header / Introduction ==================== -->
 <p align="center">
   <img
-    src="Make%20your%20README%.png"
-    alt="My Banner"
+    src="Make%20your%20README.png" 
+    alt="Hi! I’m Pournami" 
     width="800"
   />
 </p>
