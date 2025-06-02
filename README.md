@@ -1,6 +1,6 @@
 <!-- ==================== Header / Introduction ==================== -->
 <p align="center">
-  <img src="Make%20your%20README.png" alt="my banner" />
+  <img width ="200" src="Make%20your%20README.png" alt="my banner" />
 </p>
 
 ---
