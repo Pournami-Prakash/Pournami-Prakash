@@ -1,7 +1,8 @@
 <!-- ==================== Header / Introduction ==================== -->
-<h1 align="center">Hi, I’m Pournami Prakash 👋</h1>
-<p align="center">
-  M.S. Data Science @ University of Rochester • Software Engineer
+<p align=”center”>
+
+<img width=”200" height=”200" src=”Make your README.png" alt=”my banner”>
+
 </p>
 
 ---
