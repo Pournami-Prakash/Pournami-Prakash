@@ -196,14 +196,23 @@
 <!-- ==================== Education ==================== -->
 ## 🎓 Education
 
-- **M.S. Data Science**, University of Rochester, Rochester, NY  
-  • SGPA: 3.7/4 (Dec 2025 expected)  
-  • **Relevant Coursework:**  
-    - Fall 2024: End-to-End Deep Learning · Time Series Analysis · Introduction to Computational Statistics  
-    - Spring 2025: Intro to Statistical Machine Learning · Network Systems Analysis · Data Science at Scale  
+### M.S. Data Science  
+**University of Rochester**, Rochester, NY  
+- **GPA:** 3.7 / 4.0 (Expected Dec 2025)  
+  <details>
+    <summary><strong>Relevant Coursework</strong></summary>
+  
+    • Fall 2024: End-to-End Deep Learning · Time Series Analysis · Introduction to Computational Statistics  
+    • Spring 2025: Intro to Statistical Machine Learning · Network Systems Analysis · Data Science at Scale  
+  
+  </details>
 
-- **B.Tech Information Technology**, APJ Abdul Kalam Technological University, Kerala, India  
-  • CGPA: 8.9/10 (Jun 2022)  
+---
+
+### B.Tech in Information Technology  
+**APJ Abdul Kalam Technological University**, Kerala, India  
+- **CGPA:** 8.9 / 10 (Jun 2022)
+
 
 
 <!-- ==================== Technical Skills ==================== -->
@@ -218,6 +227,49 @@
 - **APIs & Web:** Flask · FastAPI · Streamlit  
 - **Visualization & BI:** Matplotlib · Seaborn · Plotly · Tableau · Power BI  
 - **Databases & Tools:** MySQL · PostgreSQL · Neo4j · Git · Linux · VS Code  
+
+<!-- ==================== Technical Skills ==================== -->
+## 🧰 Technical Skills
+
+| **Category**           | **Tools & Technologies**                                                                 |
+|------------------------|------------------------------------------------------------------------------------------|
+| **Languages**          | Python · R · SQL · Java · C++                                                            |
+| **Core ML & Data**     | scikit-learn · TensorFlow · PyTorch · Hugging Face · Apache Spark                        |
+| **Modeling Techniques**| Feature Engineering · Time-Series · NLP & GenAI · SHAP · LIME · Anomaly Detection        |
+| **MLOps & Pipelines**  | MLflow · Airflow · Databricks · Docker · Kubernetes · CI/CD · Delta Lake                 |
+| **Cloud & Big Data**   | AWS · Azure · GCP · Kafka · Hadoop                                                       |
+| **APIs & Web**         | Flask · FastAPI · Streamlit                                                              |
+| **Visualization & BI** | Matplotlib · Seaborn · Plotly · Tableau · Power BI                                      |
+| **Databases & Tools**  | MySQL · PostgreSQL · Neo4j · Git · Linux · VS Code                                      |
+
+
+<!-- ==================== Technical Skills ==================== -->
+## 🧰 Technical Skills
+
+**💬 Languages:**  
+Python · R · SQL · Java · C++
+
+**📦 ML & Data:**  
+scikit-learn · TensorFlow · PyTorch · Hugging Face · Apache Spark
+
+**🧠 Modeling:**  
+Feature Engineering · Time-Series Forecasting · NLP & GenAI · Anomaly Detection · SHAP · LIME
+
+**⚙️ MLOps & Pipelines:**  
+Airflow · Databricks · Delta Lake · Docker · Kubernetes · MLflow · CI/CD
+
+**☁️ Cloud & Big Data:**  
+AWS · Azure · GCP · Kafka · Hadoop
+
+**🧪 APIs & Web:**  
+Flask · FastAPI · Streamlit
+
+**📊 Visualization & BI:**  
+Matplotlib · Seaborn · Plotly · Tableau · Power BI
+
+**🗄️ Databases & Tools:**  
+MySQL · PostgreSQL · Neo4j · Git · Linux · VS Code
+
 
 
 <!-- ==================== Certifications ==================== -->
