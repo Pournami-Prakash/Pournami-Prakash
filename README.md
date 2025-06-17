@@ -7,7 +7,6 @@
   />
 </p>
 
----
 
 <!-- ==================== About Me ==================== -->
 
@@ -19,7 +18,6 @@
 - ☕ Fueled by coffee and plot twists—always down to chat about anything you're passionate about.
 
 
----
 
 <!-- ==================== Tech Stack Badges ==================== -->
 ## 🔧 Tech Stack
@@ -76,7 +74,6 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
----
 
 <!-- ==================== Experience ==================== -->
 ## 💼 Experience
@@ -99,7 +96,7 @@
   • Developed a Naïve Bayes fake-news detector with 90% precision to ensure content integrity  
   • Architected CI/CD workflows (Selenium, TestNG, Jenkins, GitHub Actions)—boosted test throughput by 70% and halved pipeline failures  
   • Built ARIMA & LSTM time-series forecasting models (MAPE < 5%) for financial data, improving prediction accuracy  
----
+
 
 ## 🎓 Campus & Academic Roles
 
@@ -160,7 +157,6 @@ Applied LSTM-based autoencoders in PyTorch to detect ECG anomalies (95% recall);
 - **B.Tech Information Technology**, APJ Abdul Kalam Technological University, Kerala, India  
   • CGPA: 8.9/10 (Jun 2022)  
 
----
 
 <!-- ==================== Technical Skills ==================== -->
 ## 🛠️ Technical Skills
@@ -180,11 +176,9 @@ Applied LSTM-based autoencoders in PyTorch to detect ECG anomalies (95% recall);
 ## 🎖️ Certifications
 - Microsoft Certified: Azure AI Fundamentals (AI-900) — Jan 2024  
 
----
 
 <!-- ==================== Contact ==================== -->
 ## 📫 Contact Me
 - ✉️ Email: [pprakas2@ur.rochester.edu](mailto:pprakas2@ur.rochester.edu)  
 - 🔗 LinkedIn: [linkedin.com/in/pournami-prakash](https://linkedin.com/in/pournami-prakash)  
----
 
