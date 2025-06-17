@@ -207,69 +207,23 @@
   
   </details>
 
----
-
 ### B.Tech in Information Technology  
 **APJ Abdul Kalam Technological University**, Kerala, India  
 - **CGPA:** 8.9 / 10 (Jun 2022)
 
-
-
 <!-- ==================== Technical Skills ==================== -->
 ## 🛠️ Technical Skills
 
-- **Languages:** Python · R · SQL · Java · C++  
-- **Core ML & Data:** scikit-learn · TensorFlow · PyTorch · Hugging Face · Apache Spark  
-- **Modeling & Techniques:**  Supervised Learning · Ensembles · **Feature Engineering** · Time-Series Forecasting ·  
-  NLP & Generative AI · Anomaly Detection · Model Interpretability (SHAP, LIME)  
-- **Pipelines & MLOps:** Airflow · Databricks · Delta Lake · Docker · Kubernetes · MLflow · CI/CD  
-- **Cloud & Big Data:** AWS · Azure · GCP · Kafka · Hadoop  
-- **APIs & Web:** Flask · FastAPI · Streamlit  
-- **Visualization & BI:** Matplotlib · Seaborn · Plotly · Tableau · Power BI  
-- **Databases & Tools:** MySQL · PostgreSQL · Neo4j · Git · Linux · VS Code  
-
-<!-- ==================== Technical Skills ==================== -->
-## 🧰 Technical Skills
-
-| **Category**           | **Tools & Technologies**                                                                 |
-|------------------------|------------------------------------------------------------------------------------------|
-| **Languages**          | Python · R · SQL · Java · C++                                                            |
-| **Core ML & Data**     | scikit-learn · TensorFlow · PyTorch · Hugging Face · Apache Spark                        |
-| **Modeling Techniques**| Feature Engineering · Time-Series · NLP & GenAI · SHAP · LIME · Anomaly Detection        |
-| **MLOps & Pipelines**  | MLflow · Airflow · Databricks · Docker · Kubernetes · CI/CD · Delta Lake                 |
-| **Cloud & Big Data**   | AWS · Azure · GCP · Kafka · Hadoop                                                       |
-| **APIs & Web**         | Flask · FastAPI · Streamlit                                                              |
-| **Visualization & BI** | Matplotlib · Seaborn · Plotly · Tableau · Power BI                                      |
-| **Databases & Tools**  | MySQL · PostgreSQL · Neo4j · Git · Linux · VS Code                                      |
-
-
-<!-- ==================== Technical Skills ==================== -->
-## 🧰 Technical Skills
-
-**💬 Languages:**  
-Python · R · SQL · Java · C++
-
-**📦 ML & Data:**  
-scikit-learn · TensorFlow · PyTorch · Hugging Face · Apache Spark
-
-**🧠 Modeling:**  
-Feature Engineering · Time-Series Forecasting · NLP & GenAI · Anomaly Detection · SHAP · LIME
-
-**⚙️ MLOps & Pipelines:**  
-Airflow · Databricks · Delta Lake · Docker · Kubernetes · MLflow · CI/CD
-
-**☁️ Cloud & Big Data:**  
-AWS · Azure · GCP · Kafka · Hadoop
-
-**🧪 APIs & Web:**  
-Flask · FastAPI · Streamlit
-
-**📊 Visualization & BI:**  
-Matplotlib · Seaborn · Plotly · Tableau · Power BI
-
-**🗄️ Databases & Tools:**  
-MySQL · PostgreSQL · Neo4j · Git · Linux · VS Code
-
+| **Category**              | **Tools & Technologies**                                                                       |
+|---------------------------|------------------------------------------------------------------------------------------------|
+| **💬 Languages**           | Python · R · SQL · Java · C++                                                                  |
+| **📦 Core ML & Data**      | scikit-learn · TensorFlow · PyTorch · Hugging Face · Apache Spark                              |
+| **🧠 Modeling Techniques** | Feature Engineering · Time-Series · NLP · Generative AI · SHAP · LIME · Anomaly Detection      |
+| **⚙️ MLOps & Pipelines**   | MLflow · Airflow · Databricks · Docker · Kubernetes · CI · CD · Delta Lake                     |
+| **☁️ Cloud & Big Data**    | AWS · Azure · GCP · Kafka · Hadoop                                                             |
+| **🧪 APIs & Web**          | Flask · FastAPI · Streamlit                                                                    |
+| **📊 Visualization & BI**  | Matplotlib · Seaborn · Plotly · Tableau · Power BI                                            |
+| **🗄️ Databases & Tools**   | MySQL · PostgreSQL · Neo4j · Git · Linux · VS Code                                             |
 
 
 <!-- ==================== Certifications ==================== -->
