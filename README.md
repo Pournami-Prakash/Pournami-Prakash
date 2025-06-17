@@ -109,21 +109,33 @@
 </details>
 
 
+## 🏫 Campus & Academic Roles
 
+<details>
+<summary><strong>🧾 Graduate Student System Analyst</strong> – University of Rochester, Wilson Commons (Apr 2025–Present)</summary>
 
-## 🎓 Campus & Academic Roles
+- Manage graduate-student organizations and CCC user workflows (logins, re-registrations, activity registrations)  
+- Build & maintain web forms, generate reports/queries, and analyze engagement metrics to improve outreach  
+- Develop and deliver trainings, presentations, and documentation for staff and student users  
 
-- **Graduate Student System Analyst**, University of Rochester – Wilson Commons (Apr 2025–Present)  
-  • Manage graduate-student organizations and CCC user workflows (logins, re-registrations, activity registrations).  
-  • Build & maintain web forms, generate reports/queries, and analyze engagement metrics to improve outreach.  
-  • Develop and deliver trainings, presentations, and documentation for staff and student users.
+</details>
 
-- **Teaching Assistant**, Simon Business School (Jan 2025–May 2025)  
-  • Mentored 55+ students in SQL, Tableau, Power BI, and Python visualization (Matplotlib & Seaborn).  
-  • Led weekly office hours, supported ETL and database assignments.
+<details>
+<summary><strong>📊 Teaching Assistant</strong> – Simon Business School (Jan 2025–May 2025)</summary>
 
-- **Student Engagement Assistant**, Simon Business School – University of Rochester (Jan 2025–May 2025)  
-  • Organized and managed student events, handled logistics, attendance tracking, and office data entry. Supported research and maintained inventory systems for efficient operations.
+- Mentored 55+ students in SQL, Tableau, Power BI, and Python visualization (Matplotlib & Seaborn)  
+- Led weekly office hours, supported ETL and database assignments  
+
+</details>
+
+<details>
+<summary><strong>🎯 Student Engagement Assistant</strong> – Simon Business School, University of Rochester (Jan 2025–May 2025)</summary>
+
+- Organized and managed student events, handled logistics, attendance tracking, and office data entry  
+- Supported research and maintained inventory systems for efficient operations  
+
+</details>
+
 
 ## 🎓 Academic Projects
 
