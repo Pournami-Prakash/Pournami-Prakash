@@ -78,48 +78,32 @@
 ## 💼 Experience
 
 - **Research Assistant**, UR Health Lab (Jun 2025–Present)  
-  • Develop end-to-end ML/DL/GenAI pipelines for carotid ultrasound analysis  
-    – Tools: PyTorch, TensorFlow, scikit-learn, OpenCV, NumPy  
-  
-  • Integrate tabular data and unstructured clinical notes into hybrid predictive models  
-    – Techniques: Prompt Engineering, RAG (LangChain)  
-  
-  • Track experiments and manage model versions  
-    – Platforms: MLflow, Docker, Azure DevOps  
-  
-  • Design validation frameworks with cross-validation, hyperparameter tuning, and performance benchmarks  
+  • Develop end-to-end ML/DL/GenAI pipelines for carotid ultrasound analysis using PyTorch, TensorFlow, scikit-learn, and custom preprocessing (OpenCV, NumPy)  
 
----
+  • Fuse tabular data and unstructured clinical notes into predictive models using Prompt Engineering and RAG (LangChain)  
+
+  • Manage experiments and model versions using MLflow, Docker, and Azure DevOps  
+
+  • Design robust validation strategies with cross-validation, hyperparameter tuning, and performance benchmarks  
 
 - **Data Science Intern (Project Assistant)**, University IT – AI Report Catalog (Jun 2025–Present)  
-  • Engineer ETL/data-integration pipelines against institutional data warehouses  
-    – Stack: Python, SQL, Airflow, CDS-DWH  
-  
-  • Conduct feature engineering and exploratory data analysis  
-    – Tools: Pandas, NumPy  
-  
-  • Build and deploy interactive dashboards  
-    – Frontend: Streamlit, Flask  
-  
-  • Automate monitoring and CI/CD  
-    – Tools: Airflow sensors, Docker, GitHub Actions  
+  • Build scalable ETL pipelines (Python, SQL, Airflow) for ingesting institutional data from CDS-DWH  
 
----
+  • Perform feature engineering and exploratory analysis with Pandas and NumPy  
+
+  • Design and deploy interactive dashboards (Streamlit, Flask) for analytics and stakeholder insights  
+
+  • Automate CI/CD workflows with Docker and GitHub Actions; implement monitoring using Airflow sensors  
 
 - **Software Engineer**, EY Global Delivery Services India LLP (Aug 2022–Jul 2024)  
-  • Delivered insights-driven solutions for e-commerce clients using NLP and forecasting  
-  
-  • Built production-grade summarization models  
-    – Models: BERT, T5 (cut processing time by 60%)  
-  
-  • Developed a Naïve Bayes fake-news detector  
-    – Achieved 90% precision for content integrity  
-  
-  • Designed CI/CD pipelines for test automation  
-    – Tools: Selenium, TestNG, Jenkins, GitHub Actions (70% faster, 50% fewer failures)  
-  
-  • Built ARIMA & LSTM models for stock price prediction  
-    – Achieved MAPE < 5% for financial forecasting
+  • Engineered NLP pipelines using BERT and T5 for text summarization — reduced content processing time by 60%  
+
+  • Developed a Naïve Bayes-based fake-news detector with 90% precision to enhance content quality  
+
+  • Built ARIMA and LSTM time-series forecasting models (MAPE < 5%) for stock price prediction  
+
+  • Designed CI/CD automation with Selenium, TestNG, Jenkins, and GitHub Actions — improved testing throughput by 70% and halved pipeline failures  
+
 
 
 ## 🎓 Campus & Academic Roles
