@@ -139,36 +139,80 @@
 
 ## 🎓 Academic Projects
 
-### 🎵 Spotify Network Anomaly & Community Analysis (Python, igraph, Neo4j GDS, PyTorch Geometric)  
-Built a 3.26M-node bipartite playlist–track graph and projected a 5K-node playlist network via Jaccard thresholding.  
-Extracted structural features (degree, centrality, clustering, k-core) for LOF & GCAE anomaly scoring.  
-Applied Louvain, Leiden, and Infomap community detection, evaluated with modularity, NMI, and ARI, and accelerated clustering via Neo4j GDS.  
-Filtered flagged playlists and retrained a GraphSAGE recommender, achieving a 22% lift in Precision@10 and a 30% reduction in recommendation inequality (Gini).
+<details>
+<summary>🎵 <strong>Spotify Network Anomaly & Community Analysis</strong> (Python, igraph, Neo4j GDS, PyTorch Geometric)</summary>
 
-### 📊 Real-Time Tweet Sentiment Analysis (Spark Structured Streaming, MLflow, Delta Lake, Streamlit)  
-Built a fault-tolerant streaming pipeline on Databricks that ingests live Twitter data into Delta tables, applies a BERT-based sentiment model via an MLflow-packaged Spark UDF, and writes gold-level sentiment records back to Delta.  
-Implemented Airflow-style monitoring loops to log batch metrics and automated alerting when streams idle.  
-Deployed an interactive Streamlit dashboard with Plotly visualizations of sentiment trends and processing throughput.
+<ul>
+  <li>Built a 3.26M-node bipartite playlist–track graph and projected a 5K-node playlist network via Jaccard thresholding.</li>
+  <li>Extracted structural features (degree, centrality, clustering, k-core) for LOF & GCAE anomaly scoring.</li>
+  <li>Applied Louvain, Leiden, and Infomap community detection, evaluated with modularity, NMI, and ARI.</li>
+  <li>Accelerated clustering via Neo4j GDS and retrained a GraphSAGE recommender for a 22% lift in Precision@10 and 30% reduction in recommendation inequality.</li>
+</ul>
+</details>
 
-### 🌪️ Multimodal Disaster Monitoring (BERTweet, Vision Transformer, biLSTM, GNN)  
-Built a real-time system that fuses Twitter text and image data via cross-attention and biLSTM with attention; applied a GNN for credibility scoring of posts.  
-Deployed an interactive Streamlit dashboard with Plotly heatmaps on AWS, achieving 95% classification accuracy and a 22% reduction in misinformation false positives.
+<details>
+<summary>📊 <strong>Real-Time Tweet Sentiment Analysis</strong> (Spark Structured Streaming, MLflow, Delta Lake, Streamlit)</summary>
 
-### 🏛️ Campaign Contributions Prediction (RF, LGBM, CatBoost Ensemble + Residual Stacking)  
-Engineered frequency-based features and state-network metrics (Pandas, NetworkX), then built a robust preprocessing pipeline with ColumnTransformer (SimpleImputer, OneHotEncoder, StandardScaler).  
-Trained and blended RandomForest, LightGBM (with early stopping), and CatBoost regressors using grid-search weight optimization, followed by a residual LightGBM model to correct ensemble errors.  
+<ul>
+  <li>Built a fault-tolerant Databricks pipeline ingesting live Twitter data into Delta tables.</li>
+  <li>Applied BERT-based sentiment classification using MLflow-packaged Spark UDFs.</li>
+  <li>Logged batch metrics and automated alerts via Airflow-style monitoring.</li>
+  <li>Visualized sentiment and throughput trends using Streamlit + Plotly dashboard.</li>
+</ul>
+</details>
 
-### 🧬 Ohio COVID-19 Case Prediction (XGBoost & Ridge Ensemble)  
-Developed a two-stage recursive ensemble (XGBoost base → XGBoost residual → Ridge meta-blender) to predict daily COVID-19 cases across 88 Ohio counties.  
-Integrated 100+ Twitter-derived awareness metrics, socioeconomic data, and PCA-based dimensionality reduction; achieved validation R² = 0.94115.
+<details>
+<summary>🌪️ <strong>Multimodal Disaster Monitoring</strong> (BERTweet, Vision Transformer, biLSTM, GNN)</summary>
 
-### 🗳️ Voter Preferences & Demographic Influences (R)  
-Performed data wrangling on FiveThirtyEight 2024 election polls, visualizing demographic impacts via box plots, histograms, and choropleth maps.  
-Applied two-way ANOVA and Pearson/Spearman correlations to quantify relationships between demographics and voting behavior, assessing effects of candidate dropouts and key events.  
-Conducted trend analysis and time-series forecasting to predict shifts in swing-state sentiment, informing data-driven electoral strategies.
+<ul>
+  <li>Fused Twitter text and image data using cross-attention and biLSTM with attention mechanisms.</li>
+  <li>Scored post credibility using a Graph Neural Network.</li>
+  <li>Deployed on AWS with Streamlit and Plotly heatmaps.</li>
+  <li>Achieved 95% classification accuracy and reduced false positives by 22%.</li>
+</ul>
+</details>
 
-### 🧠 Time-Series Modeling & Anomaly Detection (LSTM, ARIMA, Prophet)  
-Applied LSTM-based autoencoders in PyTorch to detect ECG anomalies (95% recall); forecasted real-world series using ARIMA, LSTM, and Prophet models, optimizing performance via grouped cross-validation, hyperparameter tuning, and metrics (MAPE, RMSE).
+<details>
+<summary>🏛️ <strong>Campaign Contributions Prediction</strong> (RF, LGBM, CatBoost Ensemble + Residual Stacking)</summary>
+
+<ul>
+  <li>Engineered frequency/state-network features using Pandas and NetworkX.</li>
+  <li>Built preprocessing with ColumnTransformer: imputation, encoding, and scaling.</li>
+  <li>Blended RF, LightGBM, and CatBoost models using grid-search optimized weights.</li>
+  <li>Used residual LightGBM to improve ensemble predictions.</li>
+</ul>
+</details>
+
+<details>
+<summary>🧬 <strong>Ohio COVID-19 Case Prediction</strong> (XGBoost & Ridge Ensemble)</summary>
+
+<ul>
+  <li>Modeled county-level daily case counts using a recursive XGBoost → Ridge stack.</li>
+  <li>Integrated 100+ Twitter metrics, socioeconomic data, and PCA features.</li>
+  <li>Achieved R² = 0.94115 on validation set.</li>
+</ul>
+</details>
+
+<details>
+<summary>🗳️ <strong>Voter Preferences & Demographic Influences</strong> (R)</summary>
+
+<ul>
+  <li>Analyzed FiveThirtyEight polling data and visualized with plots/maps.</li>
+  <li>Applied two-way ANOVA and correlation tests to examine voter patterns.</li>
+  <li>Forecasted swing-state sentiment shifts using time series models.</li>
+</ul>
+</details>
+
+<details>
+<summary>🧠 <strong>Time-Series Modeling & Anomaly Detection</strong> (LSTM, ARIMA, Prophet)</summary>
+
+<ul>
+  <li>Used LSTM autoencoders in PyTorch for ECG anomaly detection with 95% recall.</li>
+  <li>Forecasted real-world time series using ARIMA, LSTM, and Prophet models.</li>
+  <li>Benchmarked with MAPE/RMSE and tuned via grouped cross-validation.</li>
+</ul>
+</details>
+
 
 <!-- ==================== Education ==================== -->
 ## 🎓 Education
