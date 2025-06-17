@@ -78,75 +78,103 @@
 
 ---
 
-<!-- ==================== Projects & Highlights ==================== -->
-## 🚀 Projects & Highlights
-
-- [covid-predictor](https://github.com/Pournami-Prakash/covid-predictor)  
-  • Kaggle competition project: built an XGBoost + LightGBM ensemble to predict county-level COVID-19 cases. Achieved an R² of 0.916 on training and 0.86 on validation by applying grouped-by-county cross-validation and log-transforming the target.
-
-- [airbnb-price-prediction](https://github.com/Pournami-Prakash/airbnb-price-prediction)  
-  • Databricks academic lab: used Databricks notebooks, Delta Lake, and MLflow to preprocess Airbnb listings data, engineer features, and deploy a regression model that predicts nightly rates with MAE < $25.
-
-- [streaming-sentiment](https://github.com/Pournami-Prakash/streaming-sentiment)  
-  • Course project (Data Science MS): developed a real-time Twitter sentiment analysis pipeline using Spark Structured Streaming and a BERT-based classifier. Processed and visualized sentiment for over 100K tweets daily.
-
-- [real-time-disaster-monitoring](https://github.com/Pournami-Prakash/real-time-disaster-monitoring)  
-  • Academic project: implemented a multimodal disaster monitoring system using BERTweet (NLP) and Vision Transformer (image classification), achieving 95% post classification accuracy. Deployed an interactive Streamlit dashboard with geospatial heatmaps and sentiment scores, reducing response time by 35%.
-
-- [voter-preferences-2024](https://github.com/Pournami-Prakash/voter-preferences-2024)  
-  • Academic project: analyzed 2024 U.S. election polling data in R. Performed ANOVA, correlation analysis, and time-series forecasting to quantify demographic influences on voter sentiment. Created interactive visualizations (box plots, choropleth maps) to support data-driven electoral strategy.
-
-- [spotify-anomaly-detection](https://github.com/Pournami-Prakash/spotify-anomaly-detection)  
-  • Course/Research project: built a graph-based fraud detection system using Neo4j, NetworkX, and PySpark. Applied Louvain community detection and LSTM/Prophet for time-series anomaly forecasting, achieving 92% accuracy and reducing latency by 30% for real-time flagging.
-
-- [mlflow-model-tracking](https://github.com/Pournami-Prakash/mlflow-model-tracking)  
-  • Proof-of-concept: demonstrated end-to-end MLflow integration by training multiple classifiers (Logistic Regression, Random Forest, XGBoost) on the UCI Adult dataset. Compared metrics and registered the best model for production.
-
-- [feature-engineering-experiments](https://github.com/Pournami-Prakash/feature-engineering-experiments)  
-  • Personal research: performed exploratory feature engineering on demographic COVID datasets. Created interaction terms (deaths-per-capita, tweet-intensity) and used PCA for dimensionality reduction—improved validation R² by 3%.
-
----
-
-<!-- ==================== Education ==================== -->
-## 🎓 Education
-- **M.S. Data Science**, University of Rochester, Rochester, NY  
-  • SGPA: 3.7/4 (Dec 2025 expected)  
-- **B.Tech Information Technology**, APJ Abdul Kalam Technological University, Kerala, India  
-  • CGPA: 8.9/10 (Jun 2022)  
-
----
-
 <!-- ==================== Experience ==================== -->
 ## 💼 Experience
 
-- **Graduate Student System Analyst**, University of Rochester – Wilson Commons (Jun 2025–Present)  
-  • Manage student organization data on CCC platform, support system integrations, and analyze engagement metrics to improve offices’ outreach.
+- **Research Assistant**, UR Health Lab (Jun 2025–Present)  
+  • Develop end-to-end ML/DL/GenAI pipelines for carotid ultrasound analysis (PyTorch, TensorFlow, scikit-learn) with custom preprocessing (OpenCV, NumPy)  
+  • Fuse tabular data and unstructured clinical notes via Prompt Engineering & RAG (LangChain) into hybrid predictive models  
+  • Track experiments, manage model versions, and deploy reproducible research environments using MLflow, Docker, and Azure DevOps  
+  • Architect cross-validation schemes, hyperparameter tuning, and performance benchmarks to ensure robust model evaluation  
 
-- **Teaching Assistant**, Simon Business School – University of Rochester (Jan 2025–Mar 2025)  
-  • Guided 55+ students in data management and visualization courses. Mentored in SQL, Tableau, Power BI, and Python visualization (Matplotlib, Seaborn). Conducted weekly office hours and assisted faculty with ETL assignments.
+- **Data Science Intern (Project Assistant)**, University IT – AI Report Catalog (Jun 2025–Present)  
+  • Engineer ETL/data-integration workflows (Python, SQL, Airflow) against the University Data Warehouse (CDS-DWH)  
+  • Conduct feature engineering and exploratory analysis (Pandas, NumPy), then build and deploy predictive analytics dashboards (Streamlit, Flask)  
+  • Implement pipeline monitoring, alerting (Airflow sensors), and performance tuning for reliable data ingestion  
+  • Containerize services with Docker and automate CI/CD (GitHub Actions) for dashboard/model deployments  
+
+- **Software Engineer**, EY Global Delivery Services India LLP (Aug 2022–Jul 2024)  
+  • Delivered end-to-end, insights-driven solutions for e-commerce clients, leveraging data and NLP  
+  • Engineered production NLP pipelines (BERT, T5) for text summarization—cut processing time by 60%  
+  • Developed a Naïve Bayes fake-news detector with 90% precision to ensure content integrity  
+  • Architected CI/CD workflows (Selenium, TestNG, Jenkins, GitHub Actions)—boosted test throughput by 70% and halved pipeline failures  
+  • Built ARIMA & LSTM time-series forecasting models (MAPE < 5%) for financial data, improving prediction accuracy  
+---
+
+## 🎓 Campus & Academic Roles
+
+- **Graduate Student System Analyst**, University of Rochester – Wilson Commons (Apr 2025–Present)  
+  • Manage graduate-student organizations and CCC user workflows (logins, re-registrations, activity registrations).  
+  • Build & maintain web forms, generate reports/queries, and analyze engagement metrics to improve outreach.  
+  • Develop and deliver trainings, presentations, and documentation for staff and student users.
+
+- **Teaching Assistant**, Simon Business School (Jan 2025–May 2025)  
+  • Mentored 55+ students in SQL, Tableau, Power BI, and Python visualization (Matplotlib & Seaborn).  
+  • Led weekly office hours, supported ETL and database assignments.
 
 - **Student Engagement Assistant**, Simon Business School – University of Rochester (Jan 2025–May 2025)  
   • Organized and managed student events, handled logistics, attendance tracking, and office data entry. Supported research and maintained inventory systems for efficient operations.
 
-- **Software Engineer**, EY Global Delivery Services India LLP (Aug 2022–Jul 2024)  
-  • Delivered insights-driven solutions for e-commerce clients.  
-  • Implemented transformer-based NLP models for text summarization (BERT, T5), reducing content processing time by 60%.  
-  • Developed a Naïve Bayes fake news detector with 90% precision for content quality assessment.  
-  • Designed and deployed a Selenium/TestNG/Jenkins CI/CD framework—improving testing efficiency by 70% and reducing pipeline failures by 30%.  
-  • Built ARIMA/LSTM time-series models for stock price prediction with MAPE < 5%, enhancing forecasting accuracy.
+## 🎓 Academic Projects
+
+### 🎵 Spotify Network Anomaly & Community Analysis (Python, igraph, Neo4j GDS, PyTorch Geometric)  
+Built a 3.26M-node bipartite playlist–track graph and projected a 5K-node playlist network via Jaccard thresholding.  
+Extracted structural features (degree, centrality, clustering, k-core) for LOF & GCAE anomaly scoring.  
+Applied Louvain, Leiden, and Infomap community detection, evaluated with modularity, NMI, and ARI, and accelerated clustering via Neo4j GDS.  
+Filtered flagged playlists and retrained a GraphSAGE recommender, achieving a 22% lift in Precision@10 and a 30% reduction in recommendation inequality (Gini).
+
+### 📊 Real-Time Tweet Sentiment Analysis (Spark Structured Streaming, MLflow, Delta Lake, Streamlit)  
+Built a fault-tolerant streaming pipeline on Databricks that ingests live Twitter data into Delta tables, applies a BERT-based sentiment model via an MLflow-packaged Spark UDF, and writes gold-level sentiment records back to Delta.  
+Implemented Airflow-style monitoring loops to log batch metrics and automated alerting when streams idle.  
+Deployed an interactive Streamlit dashboard with Plotly visualizations of sentiment trends and processing throughput.
+
+### 🌪️ Multimodal Disaster Monitoring (BERTweet, Vision Transformer, biLSTM, GNN)  
+Built a real-time system that fuses Twitter text and image data via cross-attention and biLSTM with attention; applied a GNN for credibility scoring of posts.  
+Deployed an interactive Streamlit dashboard with Plotly heatmaps on AWS, achieving 95% classification accuracy and a 22% reduction in misinformation false positives.
+
+### 🏛️ Campaign Contributions Prediction (RF, LGBM, CatBoost Ensemble + Residual Stacking)  
+Engineered frequency-based features and state-network metrics (Pandas, NetworkX), then built a robust preprocessing pipeline with ColumnTransformer (SimpleImputer, OneHotEncoder, StandardScaler).  
+Trained and blended RandomForest, LightGBM (with early stopping), and CatBoost regressors using grid-search weight optimization, followed by a residual LightGBM model to correct ensemble errors.  
+
+### 🧬 Ohio COVID-19 Case Prediction (XGBoost & Ridge Ensemble)  
+Developed a two-stage recursive ensemble (XGBoost base → XGBoost residual → Ridge meta-blender) to predict daily COVID-19 cases across 88 Ohio counties.  
+Integrated 100+ Twitter-derived awareness metrics, socioeconomic data, and PCA-based dimensionality reduction; achieved validation R² = 0.94115.
+
+### 🗳️ Voter Preferences & Demographic Influences (R)  
+Performed data wrangling on FiveThirtyEight 2024 election polls, visualizing demographic impacts via box plots, histograms, and choropleth maps.  
+Applied two-way ANOVA and Pearson/Spearman correlations to quantify relationships between demographics and voting behavior, assessing effects of candidate dropouts and key events.  
+Conducted trend analysis and time-series forecasting to predict shifts in swing-state sentiment, informing data-driven electoral strategies.
+
+### 🧠 Time-Series Modeling & Anomaly Detection (LSTM, ARIMA, Prophet)  
+Applied LSTM-based autoencoders in PyTorch to detect ECG anomalies (95% recall); forecasted real-world series using ARIMA, LSTM, and Prophet models, optimizing performance via grouped cross-validation, hyperparameter tuning, and metrics (MAPE, RMSE).
+
+<!-- ==================== Education ==================== -->
+## 🎓 Education
+
+- **M.S. Data Science**, University of Rochester, Rochester, NY  
+  • SGPA: 3.7/4 (Dec 2025 expected)  
+  • **Relevant Coursework:**  
+    - Fall 2024: End-to-End Deep Learning · Time Series Analysis · Introduction to Computational Statistics  
+    - Spring 2025: Intro to Statistical Machine Learning · Network Systems Analysis · Data Science at Scale  
+
+- **B.Tech Information Technology**, APJ Abdul Kalam Technological University, Kerala, India  
+  • CGPA: 8.9/10 (Jun 2022)  
 
 ---
 
 <!-- ==================== Technical Skills ==================== -->
 ## 🛠️ Technical Skills
 
-- **Languages:** Python · R · SQL · Java · C++ · JavaScript  
-- **Data Science & ML:** Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Hugging Face · spaCy · NLTK · Apache Spark  
-- **MLOps & Cloud:** Databricks · Delta Lake · AWS (EC2, S3) · Azure · GCP (BigQuery) · Docker · Kubernetes · MLflow · Jenkins · Apache Airflow · Apache Kafka  
-- **Visualization & BI:** Tableau · Power BI · Matplotlib · Seaborn · Plotly · Streamlit  
-- **Databases & Tools:** MySQL · Neo4j · Git · Linux · Jupyter Notebook · VS Code · Flask · FastAPI · OpenCV  
+- **Languages:** Python · R · SQL · Java · C++  
+- **Core ML & Data:** scikit-learn · TensorFlow · PyTorch · Hugging Face · Apache Spark  
+- **Modeling & Techniques:**  Supervised Learning · Ensembles · **Feature Engineering** · Time-Series Forecasting ·  
+  NLP & Generative AI · Anomaly Detection · Model Interpretability (SHAP, LIME)  
+- **Pipelines & MLOps:** Airflow · Databricks · Delta Lake · Docker · Kubernetes · MLflow · CI/CD  
+- **Cloud & Big Data:** AWS · Azure · GCP · Kafka · Hadoop  
+- **APIs & Web:** Flask · FastAPI · Streamlit  
+- **Visualization & BI:** Matplotlib · Seaborn · Plotly · Tableau · Power BI  
+- **Databases & Tools:** MySQL · PostgreSQL · Neo4j · Git · Linux · VS Code  
 
----
 
 <!-- ==================== Certifications ==================== -->
 ## 🎖️ Certifications
@@ -158,12 +186,5 @@
 ## 📫 Contact Me
 - ✉️ Email: [pprakas2@ur.rochester.edu](mailto:pprakas2@ur.rochester.edu)  
 - 🔗 LinkedIn: [linkedin.com/in/pournami-prakash](https://linkedin.com/in/pournami-prakash)  
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle) *(if applicable)*  
-
 ---
 
-<!-- ==================== GitHub Stats ==================== -->
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pournami-Prakash&show_icons=true&theme=default" alt="GitHub Stats">
-</p>
