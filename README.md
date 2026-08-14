@@ -12,8 +12,8 @@
 
 ## 📖 About Me
 - 🎓 M.S. Data Science, University of Rochester (graduated Dec 2025)  
-- 🔬 Research Assistant, UR Health Lab: building ML/DL/GenAI pipelines for carotid ultrasound (Dr. Ajay Anand’s team)  
-- 💻 Data Science Intern, UR IT: ETL pipelines and analytics models for the AI Report Catalog  
+- 🔬 Research Assistant, UR Health Lab: built ML/DL/GenAI pipelines for carotid ultrasound (Dr. Ajay Anand’s team)  
+- 💻 Data Science Intern, UR IT: built ETL pipelines and analytics models for the AI Report Catalog  
 - ☕ Fueled by coffee and plot twists—always down to chat about anything you're passionate about.
 
 
@@ -30,80 +30,25 @@ Three end-to-end analyses, each written as a decision document: the question, th
 
 
 
-<!-- ==================== Tech Stack Badges ==================== -->
-## 🔧 Tech Stack
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-00758F?logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FF6DA1?logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/SpaCy-405FF9?logo=spaCy&logoColor=white" alt="spaCy" />
-  <img src="https://img.shields.io/badge/Apache_Spark-FF6F00?logo=apache-spark&logoColor=white" alt="Apache Spark" />
-  
-  <!-- Data Engineering & MLOps -->
-  <img src="https://img.shields.io/badge/Databricks-FF2C3E?logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Delta_Lake-00BFA5?logo=databricks&logoColor=white" alt="Delta Lake" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/MLflow-11A29B?logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
-  
-  <!-- Data Visualization & BI -->
-  <img src="https://img.shields.io/badge/Tableau-EB6B56?logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4E30?logo=streamlit&logoColor=white" alt="Streamlit" />
-  
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Neo4j-2F9B76?logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/Git-F1502F?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-
-
 ## 💼 Experience
 
 <details>
-<summary><strong>🔬 Research Assistant</strong> – UR Health Lab (Jun 2025–Present)</summary>
+<summary><strong>🔬 Research Assistant</strong> – UR Health Lab (Jun 2025–Oct 2025)</summary>
 
-- Develop end-to-end ML/DL/GenAI pipelines for carotid ultrasound analysis (PyTorch, TensorFlow, scikit-learn) with custom preprocessing (OpenCV, NumPy)  
-- Fuse tabular data and unstructured clinical notes via Prompt Engineering & RAG (LangChain) into hybrid predictive models  
-- Track experiments, manage model versions, and deploy reproducible research environments using MLflow, Docker, and Azure DevOps  
-- Architect cross-validation schemes, hyperparameter tuning, and performance benchmarks to ensure robust model evaluation  
+- Developed end-to-end ML/DL/GenAI pipelines for carotid ultrasound analysis (PyTorch, TensorFlow, scikit-learn) with custom preprocessing (OpenCV, NumPy)  
+- Fused tabular data and unstructured clinical notes via Prompt Engineering & RAG (LangChain) into hybrid predictive models  
+- Tracked experiments, managed model versions, and deployed reproducible research environments using MLflow, Docker, and Azure DevOps  
+- Architected cross-validation schemes, hyperparameter tuning, and performance benchmarks to ensure robust model evaluation  
 
 </details>
 
 <details>
-<summary><strong>💻 Data Science Intern (Project Assistant)</strong> – University IT, AI Report Catalog (Jun 2025–Present)</summary>
+<summary><strong>💻 Data Science Intern (Project Assistant)</strong> – University IT, AI Report Catalog (Jun 2025–Aug 2025)</summary>
 
-- Engineer ETL/data-integration workflows (Python, SQL, Airflow) against the University Data Warehouse (CDS-DWH)  
-- Conduct feature engineering and exploratory analysis (Pandas, NumPy), then build and deploy predictive analytics dashboards (Streamlit, Flask)  
-- Implement pipeline monitoring, alerting (Airflow sensors), and performance tuning for reliable data ingestion  
-- Containerize services with Docker and automate CI/CD (GitHub Actions) for dashboard/model deployments  
+- Engineered ETL/data-integration workflows (Python, SQL, Airflow) against the University Data Warehouse (CDS-DWH)  
+- Conducted feature engineering and exploratory analysis (Pandas, NumPy), then built and deployed predictive analytics dashboards (Streamlit, Flask)  
+- Implemented pipeline monitoring, alerting (Airflow sensors), and performance tuning for reliable data ingestion  
+- Containerized services with Docker and automated CI/CD (GitHub Actions) for dashboard/model deployments  
 
 </details>
 
@@ -122,11 +67,11 @@ Three end-to-end analyses, each written as a decision document: the question, th
 ## 🏫 Campus & Academic Roles
 
 <details>
-<summary><strong>🧾 Graduate Student System Analyst</strong> – University of Rochester, Wilson Commons (Apr 2025–Present)</summary>
+<summary><strong>🧾 Graduate Student System Analyst</strong> – University of Rochester, Wilson Commons (Apr 2025–Oct 2025)</summary>
 
-- Manage graduate-student organizations and CCC user workflows (logins, re-registrations, activity registrations)  
-- Build & maintain web forms, generate reports/queries, and analyze engagement metrics to improve outreach  
-- Develop and deliver trainings, presentations, and documentation for staff and student users  
+- Managed graduate-student organizations and CCC user workflows (logins, re-registrations, activity registrations)  
+- Built & maintained web forms, generated reports/queries, and analyzed engagement metrics to improve outreach  
+- Developed and delivered trainings, presentations, and documentation for staff and student users  
 
 </details>
 
@@ -135,14 +80,6 @@ Three end-to-end analyses, each written as a decision document: the question, th
 
 - Mentored 55+ students in SQL, Tableau, Power BI, and Python visualization (Matplotlib & Seaborn)  
 - Led weekly office hours, supported ETL and database assignments  
-
-</details>
-
-<details>
-<summary><strong>🎯 Student Engagement Assistant</strong> – Simon Business School, University of Rochester (Jan 2025–May 2025)</summary>
-
-- Organized and managed student events, handled logistics, attendance tracking, and office data entry  
-- Supported research and maintained inventory systems for efficient operations  
 
 </details>
 
@@ -174,47 +111,11 @@ Three end-to-end analyses, each written as a decision document: the question, th
 - Deployed an interactive Streamlit dashboard with Plotly heatmaps on AWS, achieving 95% classification accuracy and a 22% reduction in misinformation false positives.
 </details>
 
-<details>
-<summary>🏛️ <strong>Campaign Contributions Prediction</strong> (RF, LGBM, CatBoost Ensemble + Residual Stacking)</summary>
-
-- Engineered frequency-based features and state-network metrics (Pandas, NetworkX), then built a robust preprocessing pipeline with ColumnTransformer (SimpleImputer, OneHotEncoder, StandardScaler).  
-- Trained and blended RandomForest, LightGBM (with early stopping), and CatBoost regressors using grid-search weight optimization, followed by a residual LightGBM model to correct ensemble errors.
-</details>
-
-<details>
-<summary>🧬 <strong>Ohio COVID-19 Case Prediction</strong> (XGBoost & Ridge Ensemble)</summary>
-
-- Developed a two-stage recursive ensemble (XGBoost base → XGBoost residual → Ridge meta-blender) to predict daily COVID-19 cases across 88 Ohio counties.  
-- Integrated 100+ Twitter-derived awareness metrics, socioeconomic data, and PCA-based dimensionality reduction; achieved validation R² = 0.94115.
-</details>
-
-<details>
-<summary>🗳️ <strong>Voter Preferences & Demographic Influences</strong> (R)</summary>
-
-- Performed data wrangling on FiveThirtyEight 2024 election polls and visualized demographic impacts via box plots, histograms, and choropleth maps.  
-- Applied two-way ANOVA and Pearson/Spearman correlations to quantify relationships between demographics and voting behavior, assessing effects of candidate dropouts and key events.  
-- Conducted trend analysis and time-series forecasting to predict shifts in swing-state sentiment, informing data-driven electoral strategies.
-</details>
-
-<details>
-<summary>🧠 <strong>Time-Series Modeling & Anomaly Detection</strong> (LSTM, ARIMA, Prophet)</summary>
-
-- Applied LSTM-based autoencoders in PyTorch to detect ECG anomalies (95% recall).  
-- Forecasted real-world time series using ARIMA, LSTM, and Prophet models, optimizing performance via grouped cross-validation, hyperparameter tuning, and metrics (MAPE, RMSE).
-</details>
-
 <!-- ==================== Education ==================== -->
 ## 🎓 Education
 
 ### M.S. Data Science  
-**University of Rochester**, Rochester, NY — Dec 2025  
-  <details>
-    <summary><strong>Relevant Coursework</strong></summary>
-  
-    • Fall 2024: End-to-End Deep Learning · Time Series Analysis · Introduction to Computational Statistics  
-    • Spring 2025: Intro to Statistical Machine Learning · Network Systems Analysis · Data Science at Scale  
-  
-  </details>
+**University of Rochester**, Rochester, NY — Dec 2025
 
 ### B.Tech in Information Technology  
 **APJ Abdul Kalam Technological University**, Kerala, India — Jun 2022
