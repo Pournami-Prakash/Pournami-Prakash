@@ -11,11 +11,22 @@
 <!-- ==================== About Me ==================== -->
 
 ## 📖 About Me
-- 🎓 M.S. Data Science, University of Rochester (Dec ’25)  
+- 🎓 M.S. Data Science, University of Rochester (graduated Dec 2025)  
 - 🔬 Research Assistant, UR Health Lab: building ML/DL/GenAI pipelines for carotid ultrasound (Dr. Ajay Anand’s team)  
-- 💻 Data Science Intern, UR IT (Summer ’25): crafting ETL pipelines and analytics models for the AI Report Catalog  
-- 🌱 Summer goals: AWS & Databricks certs, plus breathe life into my currently nonexistent online presence.  
+- 💻 Data Science Intern, UR IT: ETL pipelines and analytics models for the AI Report Catalog  
 - ☕ Fueled by coffee and plot twists—always down to chat about anything you're passionate about.
+
+
+<!-- ==================== Featured Case Studies ==================== -->
+## 📌 Featured Case Studies
+
+Three end-to-end analyses, each written as a decision document: the question, the evidence, and what that evidence does and does not support.
+
+| Case study | Question | Stack |
+|---|---|---|
+| **[Criteo Ad Incrementality](https://github.com/Pournami-Prakash/criteo-ad-incrementality)** | When ad capacity is limited, should impressions go to the highest predicted conversion probability or the highest predicted incremental response? | Python · uplift modeling · causal inference |
+| **[MEPS Healthcare Risk](https://github.com/Pournami-Prakash/meps-healthcare-risk)** | Can prior-year survey and utilization data identify people at risk of high medical spending or high prescription burden the following year? | R · survey weighting · tidymodels |
+| **[Retail Decision Engine](https://github.com/Pournami-Prakash/retail-decision-engine)** | Which products should a retailer promote, at what discount, when the objective is incremental contribution margin rather than unit lift? | Python · hierarchical Bayes · MIP optimization · Docker |
 
 
 
@@ -38,7 +49,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Hugging_Face-FF6DA1?logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/SpaCy-405FF9?logo=spaCy&logoColor=white" alt="spaCy" />
   <img src="https://img.shields.io/badge/Apache_Spark-FF6F00?logo=apache-spark&logoColor=white" alt="Apache Spark" />
   
@@ -197,8 +207,7 @@
 ## 🎓 Education
 
 ### M.S. Data Science  
-**University of Rochester**, Rochester, NY  
-- **GPA:** 3.7 / 4.0 (Expected Dec 2025)  
+**University of Rochester**, Rochester, NY — Dec 2025  
   <details>
     <summary><strong>Relevant Coursework</strong></summary>
   
@@ -208,8 +217,7 @@
   </details>
 
 ### B.Tech in Information Technology  
-**APJ Abdul Kalam Technological University**, Kerala, India  
-- **CGPA:** 8.9 / 10 (Jun 2022)
+**APJ Abdul Kalam Technological University**, Kerala, India — Jun 2022
 
 <!-- ==================== Technical Skills ==================== -->
 ## 🛠️ Technical Skills
@@ -233,6 +241,6 @@
 
 <!-- ==================== Contact ==================== -->
 ## 📫 Contact Me
-- ✉️ Email: [pprakas2@ur.rochester.edu](mailto:pprakas2@ur.rochester.edu)  
+- ✉️ Email: [pournami.prakash.001@gmail.com](mailto:pournami.prakash.001@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/pournami-prakash](https://linkedin.com/in/pournami-prakash)  
 
