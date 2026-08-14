@@ -30,6 +30,61 @@ Three end-to-end analyses, each written as a decision document: the question, th
 
 
 
+<!-- ==================== Tech Stack Badges ==================== -->
+## 🔧 Tech Stack
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-00758F?logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  
+  <!-- Data Science & ML -->
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FF6DA1?logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/SpaCy-405FF9?logo=spaCy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/Apache_Spark-FF6F00?logo=apache-spark&logoColor=white" alt="Apache Spark" />
+  
+  <!-- Data Engineering & MLOps -->
+  <img src="https://img.shields.io/badge/Databricks-FF2C3E?logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00BFA5?logo=databricks&logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/MLflow-11A29B?logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  
+  <!-- Data Visualization & BI -->
+  <img src="https://img.shields.io/badge/Tableau-EB6B56?logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4E30?logo=streamlit&logoColor=white" alt="Streamlit" />
+  
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Neo4j-2F9B76?logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Git-F1502F?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+
 ## 💼 Experience
 
 <details>
@@ -119,29 +174,3 @@ Three end-to-end analyses, each written as a decision document: the question, th
 
 ### B.Tech in Information Technology  
 **APJ Abdul Kalam Technological University**, Kerala, India — Jun 2022
-
-<!-- ==================== Technical Skills ==================== -->
-## 🛠️ Technical Skills
-
-| **Category**              | **Tools & Technologies**                                                                       |
-|---------------------------|------------------------------------------------------------------------------------------------|
-| **💬 Languages**           | Python · R · SQL · Java · C++                                                                  |
-| **📦 Core ML & Data**      | scikit-learn · TensorFlow · PyTorch · Hugging Face · Apache Spark                              |
-| **🧠 Modeling Techniques** | Feature Engineering · Time-Series · NLP · Generative AI · SHAP · LIME · Anomaly Detection      |
-| **⚙️ MLOps & Pipelines**   | MLflow · Airflow · Databricks · Docker · Kubernetes · CI · CD · Delta Lake                     |
-| **☁️ Cloud & Big Data**    | AWS · Azure · GCP · Kafka · Hadoop                                                             |
-| **🧪 APIs & Web**          | Flask · FastAPI · Streamlit                                                                    |
-| **📊 Visualization & BI**  | Matplotlib · Seaborn · Plotly · Tableau · Power BI                                            |
-| **🗄️ Databases & Tools**   | MySQL · PostgreSQL · Neo4j · Git · Linux · VS Code                                             |
-
-
-<!-- ==================== Certifications ==================== -->
-## 🎖️ Certifications
-- Microsoft Certified: Azure AI Fundamentals (AI-900) — Jan 2024  
-
-
-<!-- ==================== Contact ==================== -->
-## 📫 Contact Me
-- ✉️ Email: [pournami.prakash.001@gmail.com](mailto:pournami.prakash.001@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/pournami-prakash](https://linkedin.com/in/pournami-prakash)  
-
