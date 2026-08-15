@@ -10,35 +10,34 @@
   <img src="assets/vscode_hero.svg" alt="about.py — Pournami Prakash" width="880" />
 </p>
 
-<p align="center">
-  <a href="https://www.pournamiprakash.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/pournami-prakash/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
 <h3 align="center">Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/Pournami-Prakash/retail-decision-engine"><img src="assets/cards/retail.svg" alt="retail-decision-engine" /></a>
-  <a href="https://github.com/Pournami-Prakash/criteo-ad-incrementality"><img src="assets/cards/criteo.svg" alt="criteo-ad-incrementality" /></a>
-  <a href="https://github.com/Pournami-Prakash/meps-healthcare-risk"><img src="assets/cards/meps.svg" alt="meps-healthcare-risk" /></a>
-  <a href="https://github.com/Pournami-Prakash/f1-bulletin-live"><img src="assets/cards/f1.svg" alt="f1-bulletin-live" /></a>
-  <a href="https://github.com/Pournami-Prakash/IPL"><img src="assets/cards/ipl.svg" alt="IPL" /></a>
-  <a href="https://github.com/Pournami-Prakash/Watch-History"><img src="assets/cards/watch.svg" alt="Watch-History" /></a>
-  <a href="https://github.com/Pournami-Prakash/printer"><img src="assets/cards/printer.svg" alt="printer" /></a>
-  <a href="https://github.com/Pournami-Prakash/blah-blah-blah"><img src="assets/cards/blah.svg" alt="blah-blah-blah" /></a>
-  <a href="https://github.com/Pournami-Prakash/bigmac-drifting-burger"><img src="assets/cards/bigmac.svg" alt="bigmac-drifting-burger" /></a>
-</p>
-
-<p align="center">
-  <sub>
-    Live &nbsp;·&nbsp;
-    <a href="https://f1bulletin.pournamiprakash.dev">f1bulletin</a> &nbsp;·&nbsp;
-    <a href="https://ipl-bulletin.vercel.app">ipl-bulletin</a> &nbsp;·&nbsp;
-    <a href="https://seen-next.vercel.app/">seen-next</a> &nbsp;·&nbsp;
-    <a href="https://guilttrip.pournamiprakash.dev/">guilttrip</a> &nbsp;·&nbsp;
-    <a href="https://blah.pournamiprakash.dev/">blah</a>
-  </sub>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/Pournami-Prakash/f1-bulletin-live"><img src="assets/shots/f1.jpg" alt="f1-bulletin-live" width="330" /></a><br />
+  <b>f1-bulletin-live</b><br />
+  <sub><a href="https://f1bulletin.pournamiprakash.dev">live ↗</a></sub>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/Pournami-Prakash/IPL"><img src="assets/shots/ipl.jpg" alt="IPL" width="330" /></a><br />
+  <b>IPL</b><br />
+  <sub><a href="https://ipl-bulletin.vercel.app">live ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/Pournami-Prakash/Watch-History"><img src="assets/shots/watch.jpg" alt="Watch-History" width="330" /></a><br />
+  <b>Watch-History</b><br />
+  <sub><a href="https://seen-next.vercel.app/">live ↗</a></sub>
+</td>
+<td align="center">
+  <a href="https://github.com/Pournami-Prakash?tab=repositories"><img src="assets/shots/case-studies.svg" alt="Case studies: retail-decision-engine, criteo-ad-incrementality, meps-healthcare-risk" width="330" /></a><br />
+  <b>Case studies</b><br />
+  <sub><a href="https://github.com/Pournami-Prakash?tab=repositories">all repos ↗</a></sub>
+</td>
+</tr>
+</table>
 
 <h3 align="center">Tech Stack</h3>
 
