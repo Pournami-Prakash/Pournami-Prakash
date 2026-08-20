@@ -2,7 +2,7 @@
   <img
     src="Make%20your%20README.png"
     alt="Hi! I'm Pournami — Data Scientist"
-    width="880"
+    width="760"
   />
 </p>
 
