@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="Make%20your%20README.png"
+    src="profile-banner.png"
     alt="Hi! I'm Pournami — Data Scientist"
     width="760"
   />
@@ -16,24 +16,32 @@
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/Pournami-Prakash/f1-bulletin-live"><img src="assets/shots/f1.jpg" alt="f1-bulletin-live" width="330" /></a><br />
-  <b>f1-bulletin-live</b><br />
+  <b>F1 Bulletin</b><br />
+  <sub>Race analytics, news intelligence, and probabilistic predictions</sub><br />
   <sub><a href="https://f1bulletin.pournamiprakash.dev">live ↗</a></sub>
 </td>
 <td align="center" width="50%">
   <a href="https://github.com/Pournami-Prakash/IPL"><img src="assets/shots/ipl.jpg" alt="IPL" width="330" /></a><br />
-  <b>IPL</b><br />
+  <b>IPL Matchdesk</b><br />
+  <sub>Self-auditing match predictions and season intelligence</sub><br />
   <sub><a href="https://ipl-bulletin.vercel.app">live ↗</a></sub>
 </td>
 </tr>
 <tr>
 <td align="center">
   <a href="https://github.com/Pournami-Prakash/Watch-History"><img src="assets/shots/watch.jpg" alt="Watch-History" width="330" /></a><br />
-  <b>Watch-History</b><br />
+  <b>Seen &amp; Next</b><br />
+  <sub>A private viewing diary with grounded recommendations</sub><br />
   <sub><a href="https://seen-next.vercel.app/">live ↗</a></sub>
 </td>
 <td align="center">
   <a href="https://github.com/Pournami-Prakash?tab=repositories"><img src="assets/shots/case-studies.svg" alt="Case studies: retail-decision-engine, criteo-ad-incrementality, meps-healthcare-risk" width="330" /></a><br />
   <b>Case studies</b><br />
+  <sub>
+    <a href="https://github.com/Pournami-Prakash/retail-decision-engine">retail</a> ·
+    <a href="https://github.com/Pournami-Prakash/criteo-ad-incrementality">advertising</a> ·
+    <a href="https://github.com/Pournami-Prakash/meps-healthcare-risk">healthcare</a>
+  </sub><br />
   <sub><a href="https://github.com/Pournami-Prakash?tab=repositories">all repos ↗</a></sub>
 </td>
 </tr>
