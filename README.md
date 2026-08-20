@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="Make%20your%20README.png"
-    alt="Hi! I'm Pournami — Aspiring Data Scientist"
+    alt="Hi! I'm Pournami — Data Scientist"
     width="880"
   />
 </p>
